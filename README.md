@@ -6,7 +6,9 @@ Arduino code and instructions for the hidden RFID door opener.
 
 ## Dependencies
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
-- Adafruit_PN532 if this is not already installed you can install it through the Arduino IDE with the library manager. 
+- Adafruit_PN532 
+
+If this is not already installed you can install it through the Arduino IDE with the library manager. 
 
 *Sketch > Include Library > Manage Libraries...*
 
